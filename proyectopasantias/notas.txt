@@ -1,0 +1,4 @@
+// Poner que los errores se muestren en la pagina html y no con un echo 
+( tanto en login como en register , para todos los campos sin completar y ante algun error como usuario ya existente o email no existente)
+
+// Respecto a la base de datos hay que crear funciones que verifiquen si ya existe un usuario creado con esos datos
