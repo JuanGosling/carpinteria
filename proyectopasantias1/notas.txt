@@ -1,0 +1,7 @@
+
+// Respecto a la base de datos hay que crear funciones que verifiquen si ya existe o no existe un usuario creado con esos datos
+(tanto en login como register)
+
+// Modificar carpeta de campo , agregar fotos y lo que no puse (24/5/25 creacion de la base de datos y la conexion a esta)
+
+// Encriptar la contraseña en php
